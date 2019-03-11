@@ -1,2 +1,2 @@
 # Hadoop-Mapreduce
-Count digits using Hadoop MapReduce
+Count digits in a sequence using Hadoop MapReduce
